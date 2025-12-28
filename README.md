@@ -1,5 +1,4 @@
-# 💫 About Me:
-## About Me<br><br>🔭 I’m currently working on  <br>→ Multi-tenant SaaS platforms (Tuition Management, Food Delivery, NGO systems)<br><br>👯 I’m looking to collaborate on  <br>→ SaaS products, startup MVPs, and scalable web platforms<br><br>🤝 I’m looking for help with  <br>→ Growth, marketing strategy, and scaling SaaS to multiple clients<br><br>🌱 I’m currently learning  <br>→ Advanced React patterns, system design, and SaaS architecture<br><br>💬 Ask me about  <br>→ React, PHP backends, SaaS logic, multi-tenant systems, startup building<br><br>⚡ Fun fact  <br>→ I build real products first, then worry about perfection.<br>
+#🚀 Building and shipping SaaS products end-to-end, from idea to production, focused on scalability, usability, and long-term growth.
 
 
 ## 🌐 Socials:
