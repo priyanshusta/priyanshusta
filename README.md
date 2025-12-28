@@ -1,4 +1,4 @@
-#🚀 Building and shipping SaaS products end-to-end, from idea to production, focused on scalability, usability, and long-term growth.
+🚀 Building and shipping SaaS products end-to-end, from idea to production, focused on scalability, usability, and long-term growth.
 
 
 ## 🌐 Socials:
